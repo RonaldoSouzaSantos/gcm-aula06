@@ -14,6 +14,6 @@ Tres Filmes
 * Matrix Reload
 * Matrix Revolution
 
-*O senhor dos anais
-*O buraco negro
-*O virgem de 40 anos
+* O senhor dos anais
+* O buraco negro
+* O virgem de 40 anos
