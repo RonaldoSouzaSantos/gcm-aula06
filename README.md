@@ -8,4 +8,5 @@ Ferramentas de controle de versão:
 * Crear Case
 * SVN
 * Mercurial
+* Performace
 * Git
