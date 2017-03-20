@@ -1,8 +1,8 @@
 Tres Filmes 
 
-Titanic 
-Todo Poderoso
-o Alto da Compadecida
+* Titanic 
+* Todo Poderoso
+* o Alto da Compadecida
 
 
 * Minority Report
