@@ -17,3 +17,7 @@ Tres Filmes
 * Prova de fogo
 * Um amor para recordar
 * O melhor de mim
+
+* O Buraco
+* A Selva
+* Tropa de elite
